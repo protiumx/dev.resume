@@ -13,9 +13,8 @@
 \usepackage[hidelinks]{hyperref}
 
 % Color definitions
-\usepackage[usenames,dvipsnames]{xcolor} 
-\definecolor{date}{HTML}{666666} 
-\definecolor{primary}{HTML}{2b2b2b} 
+\usepackage[usenames,dvipsnames]{xcolor}
+\definecolor{primary}{HTML}{2b2b2b}
 \definecolor{headings}{HTML}{6A6A6A}
 \definecolor{subheadings}{HTML}{333333}
 \definecolor{links}{HTML}{33AFFF}
@@ -28,7 +27,7 @@
   urlcolor     = links,    % Colour for external hyperlinks
   linkcolor    = links,    % Colour of internal links
   citecolor    = links,
-  anchorcolor = links 
+  anchorcolor = links
 }
 
 % ===== COMMANDS =====
@@ -50,9 +49,9 @@
 \vspace{-15pt}
 }
 
-% Section seperators 
+% Section seperators
 \usepackage{titlesec}
-\titlespacing{\section}{0pt}{0pt}{0pt} 
+\titlespacing{\section}{0pt}{0pt}{0pt}
 \titlespacing{\subsection}{0pt}{0pt}{0pt}
 \newcommand{\sectionsep}{\vspace{8pt}}
 
