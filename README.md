@@ -26,3 +26,8 @@ You can change any color in the [class definition](resume.cls).
 
 You need a `xelatex` compiler. I used [overleaf](https://www.overleaf.com/) to edit and compile my resume.
 
+## Sponsorship
+
+If you find this project useful you can support my work with:
+<!-- markdownlint-disable no-inline-html -->
+<a href="https://www.buymeacoffee.com/p3kqm9Z2h" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
