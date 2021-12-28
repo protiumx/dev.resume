@@ -7,6 +7,11 @@ Based on: https://github.com/deedydas/Deedy-Resume
 
 ![preview](preview.png)
 
+## Fonts
+
+- Main font: [MavenPro](https://fonts.google.com/specimen/Maven+Pro)
+- Skills font: [SourceCodePro](https://fonts.google.com/specimen/Source+Code+Pro)
+
 ## Colors
 
 You can change any color in the [class definition](resume.cls).
