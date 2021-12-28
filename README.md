@@ -12,6 +12,8 @@ Based on: https://github.com/deedydas/Deedy-Resume
 - Main font: [MavenPro](https://fonts.google.com/specimen/Maven+Pro)
 - Skills font: [SourceCodePro](https://fonts.google.com/specimen/Source+Code+Pro)
 
+You can change the fonts as you want. I recommend taking a look at [google fonts](https://fonts.google.com/)
+
 ## Colors
 
 You can change any color in the [class definition](resume.cls).
